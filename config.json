@@ -1,0 +1,7 @@
+{
+  "lotteries": [
+    {"name": "Lotería Nacional", "update_interval": 5, "effect": "bounce"},
+    {"name": "PowerBall", "update_interval": 3, "effect": "fade"},
+    {"name": "MegaMillions", "update_interval": 4, "effect": "pulse"}
+  ]
+}
